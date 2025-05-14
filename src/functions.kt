@@ -19,7 +19,8 @@ fun areaCircle(r: Int){
 }
 
 //course hunter
-
+//leetcode
+//codewars
 fun volumeCylinder(r: Double, h:Double, rounded:Boolean=false){
     var v = 22/7.0 * r * r * h
     if(rounded){
